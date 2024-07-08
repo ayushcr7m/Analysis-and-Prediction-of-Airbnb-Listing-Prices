@@ -1,0 +1,5 @@
+I have done the project using the Kaggle API, thus, please refer the following link for the output and EDA of the Project.
+
+
+
+https://www.kaggle.com/code/ayushmishra07/analysis-and-prediction-of-airbnb-listing-prices
